@@ -4,4 +4,4 @@
 
 
 🔗 Interactive Demo:
-https://mehrdadbijandi.github.io/Geomatics/map.html/...html
+https://mehrdadbijandi.github.io/Geomatics/tafresh_geomatics.html
