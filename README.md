@@ -1,5 +1,5 @@
 ## 3D Graph Demo
-![preview](tafresh-banner-mobile.jpg)
+![preview](tafresh-banner-mobile.svg)
 
 
 
