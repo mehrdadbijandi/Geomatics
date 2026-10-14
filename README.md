@@ -4,4 +4,4 @@
 
 
 🔗 Interactive Demo:
-https://mehrdadbijandi.github.io/../...html
+https://mehrdadbijandi.github.io/Geomatics/map.html/...html
